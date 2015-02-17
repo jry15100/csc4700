@@ -1,4 +1,6 @@
 What is your favorite movie?
+Answer: My favorite movie is Gladiator starring Russell Crowe and Joaquin Phoenix.
 
 If you could go anywhere in the world for vacation, where would it be?
-
+Answer: If I could go anywhere in the world for vacation, I would go to Rome.  I would love to see both Vatican City,
+as well as the ruins of the ancient Roman empire.
